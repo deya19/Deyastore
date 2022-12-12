@@ -1,0 +1,41 @@
+# Store 
+
+### Technologis used: ReactJS,MaterialUI,SCSS,Redux-Toolkit,strapi,stripe,MySQL, and NodeJS
+
+#### Project Features:
+##### 1) Slider
+##### 2) Filter every products with categories,sub-categories, and price
+##### 3) Using Strapi Dashboard to add,update and delete products
+##### 5) Using stripe to pay the price of products and its dashboard to know the information of clients (position,email,phone number ....)
+##### 4) Server Side Rendering for better performance and SEO 
+##### 5) Progressive Web APP 
+
+# Home page
+<img src="https://user-images.githubusercontent.com/104832466/207028612-e83ec8a7-3be1-4e68-b24f-da3c7923ed16.png" width="100%">
+<img src="https://user-images.githubusercontent.com/104832466/207028775-a4eef320-22bf-445b-950c-ab577395eebb.png" width="100%">
+<img src="https://user-images.githubusercontent.com/104832466/207028931-66035ed3-c70d-4b5e-a865-5bce159e20c6.png" width="100%">
+<img src="https://user-images.githubusercontent.com/104832466/207029102-40051454-4f3d-41cd-b4b5-e391bc35fd72.png" width="100%">
+<img src="https://user-images.githubusercontent.com/104832466/207029249-e710061d-73ae-4b62-9fe5-50c199bfb65e.png" width="100%">
+<img src="https://user-images.githubusercontent.com/104832466/207029383-906737bb-53d9-4dbb-9679-9ca81910124f.png" width="100%">
+<img src="https://user-images.githubusercontent.com/104832466/207029543-b83cc2d5-623f-4392-962a-9c330870aea1.png" width="100%">
+
+# Filter page
+<img src="https://user-images.githubusercontent.com/104832466/207030650-f7148a00-0613-4018-8424-6ac5999a5105.png" width="100%">
+<img src="https://user-images.githubusercontent.com/104832466/207030770-aa84a137-93ec-4823-96ee-bef4db2c57a4.png" width="100%">
+
+
+# Product and cart page
+<img src="https://user-images.githubusercontent.com/104832466/207029882-8c6f4beb-6212-4169-831b-70316c9ba217.png" width="100%">
+<img src="https://user-images.githubusercontent.com/104832466/207029949-c9753015-1946-40ec-b4aa-bcef184d3940.png" width="100%">
+
+
+# Payment Page by useing stripe
+<img src="https://user-images.githubusercontent.com/104832466/207030441-fc942295-e9e2-44cf-ad9c-407b5823bc7d.png" width="100%">
+
+# Strapi Page to add,delete, and update Products
+<img src="https://user-images.githubusercontent.com/104832466/207031353-da59d520-e127-4a84-b7b0-c3f517a7757a.png" width="100%">
+<img src="https://user-images.githubusercontent.com/104832466/207031472-172f036e-ab90-4fc7-a83c-05fddedf88c9.png" width="100%">
+<img src="https://user-images.githubusercontent.com/104832466/207031562-f25ef539-3577-4688-853c-d1d8cb114648.png" width="100%">
+
+# Prograssive Web App 
+<img src="https://user-images.githubusercontent.com/104832466/207034257-740f1301-d2c6-463d-95e3-7a176a9202a4.png" width="100%">
