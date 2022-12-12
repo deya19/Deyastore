@@ -29,7 +29,7 @@
 <img src="https://user-images.githubusercontent.com/104832466/207029949-c9753015-1946-40ec-b4aa-bcef184d3940.png" width="100%">
 
 
-# Payment Page by useing stripe
+# Payment Page by using stripe
 <img src="https://user-images.githubusercontent.com/104832466/207030441-fc942295-e9e2-44cf-ad9c-407b5823bc7d.png" width="100%">
 
 # Strapi Page to add,delete, and update Products
