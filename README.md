@@ -11,13 +11,13 @@
 ##### 5) Progressive Web APP 
 
 # Home page
-<img src="https://user-images.githubusercontent.com/104832466/207028612-e83ec8a7-3be1-4e68-b24f-da3c7923ed16.png" width="100%">
-<img src="https://user-images.githubusercontent.com/104832466/207028775-a4eef320-22bf-445b-950c-ab577395eebb.png" width="100%">
-<img src="https://user-images.githubusercontent.com/104832466/207028931-66035ed3-c70d-4b5e-a865-5bce159e20c6.png" width="100%">
+<img src="https://user-images.githubusercontent.com/104832466/207057561-933e242a-812f-490a-90c1-40cb56fbe1f9.png" width="100%">
+<img src="https://user-images.githubusercontent.com/104832466/207057652-36cf55ec-4d94-4a4b-af0e-0433239a7259.png" width="100%">
+<img src="https://user-images.githubusercontent.com/104832466/207057756-ac4206e8-e23f-41b9-ba63-658c1ee9217d.png" width="100%">
 <img src="https://user-images.githubusercontent.com/104832466/207029102-40051454-4f3d-41cd-b4b5-e391bc35fd72.png" width="100%">
 <img src="https://user-images.githubusercontent.com/104832466/207029249-e710061d-73ae-4b62-9fe5-50c199bfb65e.png" width="100%">
 <img src="https://user-images.githubusercontent.com/104832466/207029383-906737bb-53d9-4dbb-9679-9ca81910124f.png" width="100%">
-<img src="https://user-images.githubusercontent.com/104832466/207029543-b83cc2d5-623f-4392-962a-9c330870aea1.png" width="100%">
+
 
 # Filter page
 <img src="https://user-images.githubusercontent.com/104832466/207030650-f7148a00-0613-4018-8424-6ac5999a5105.png" width="100%">
