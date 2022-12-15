@@ -1,10 +1,10 @@
 # Store 
 
-Turn on Client Side
+Turn on Client Side:
 ```
 npm start
 ```
-Turn on Api
+Turn on Api:
 ```
 npm run develop
 or
