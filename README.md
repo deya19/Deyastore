@@ -1,5 +1,18 @@
 # Store 
 
+Turn on Client Side
+```
+npm start
+```
+Turn on Api
+```
+npm run develop
+or
+npm run start
+```
+
+
+
 ### Technologis used: ReactJS,MaterialUI,SCSS,Redux-Toolkit,strapi,stripe,MySQL, and NodeJS
 
 #### Project Features:
